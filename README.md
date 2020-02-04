@@ -13,5 +13,5 @@ Upload the other two zip files onto the colab runtime.
 
 Run all the cells.
 
-You can read more about the architecture and the research involved in the research paper.
+You can read more about the architecture and the research involved by referring the research paper.
 https://link.springer.com/article/10.1007/s11042-019-7460-4.
